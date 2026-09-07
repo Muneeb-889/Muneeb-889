@@ -1,165 +1,206 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<!--                     MUNEEB AHMAD • PROFILE                      -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0f172a,100:164e63&text=MUNEEB%20AHMAD&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=PYTHON%20%7C%20AI%20%7C%20CYBERSECURITY%20%7C%20AUTOMATION&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br>
 
-::: {align="center"}
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=220&section=header&text=MUNEEB%20AHMAD&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Code%20%7C%20AI%20%7C%20Security%20%7C%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>{=html}
+<img src="https://github.com/Muneeb-889.png" width="125" height="125" style="border-radius:50%" alt="Muneeb Ahmad"/>
 
-<br>{=html}
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Python+%7C+C+Developer;AI+%26+RAG+Builder;Cybersecurity+Enthusiast;Backend+%26+API+Developer;Automation+%26+Integration+Engineer;Always+Learning.+Always+Building." alt="Typing SVG"/>{=html}
+<a href="https://github.com/Muneeb-889">
+  <img src="https://img.shields.io/badge/GitHub-Muneeb--889-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:muneebahmadnadeem.786@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br>{=html}<br>{=html}
+<br><br>
 
-<a href="https://github.com/Muneeb-889">{=html}
-<img src="https://img.shields.io/github/followers/Muneeb-889?label=Followers&style=for-the-badge&logo=github&color=111827"/>{=html}
-</a>{=html}
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&height=45&lines=Python+%26+C+Developer;AI+%26+RAG+Builder;Backend+%26+API+Engineer;Cybersecurity+Enthusiast;Automation+%26+Integration+Builder;Turning+Ideas+Into+Real+Systems." alt="Typing animation"/>
 
-<a href="https://github.com/Muneeb-889?tab=repositories">{=html}
-<img src="https://img.shields.io/github/stars/Muneeb-889?label=Stars&style=for-the-badge&logo=github&color=111827"/>{=html}
-</a>{=html}
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Muneeb-889&style=for-the-badge&color=111827&label=PROFILE+VIEWS"/>{=html}
-:::
+<div align="center">
 
-> whoami
+SYSTEM STATUS
 
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   Muneeb Ahmad                                               │
-│   ├── BS Mathematics Student                                │
-│   ├── Python & C Developer                                  │
-│   ├── AI / RAG Developer                                    │
-│   ├── Cybersecurity Enthusiast                              │
-│   ├── Backend & API Builder                                 │
-│   └── Automation Explorer                                   │
-│                                                              │
-│   Location  → Lahore, Pakistan                              │
-│   Mindset   → Learn → Build → Break → Fix → Improve         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+● ONLINE    ⚡ BUILDING    🧠 LEARNING    🔐 SECURING
 
-⚡ I don't just write code.
+</div>
 
-I build systems that solve problems.
+<br>
 
-My work sits at the intersection of mathematics, programming,
-artificial intelligence, cybersecurity, backend engineering, and
-automation.
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
-I enjoy turning ideas into real products --- from AI/RAG systems and
-backend APIs to automation workflows, integrations, and full-stack
-applications.
+👋 whoami
 
-🧠 brain.exe
+I'm Muneeb Ahmad, a BS Mathematics student and developer interested in building practical software systems.
 
-                    ┌─────────────────┐
-                    │    MATHEMATICS  │
-                    └────────┬────────┘
-                             │
-                             ▼
-              ┌──────────────────────────┐
-              │        PROGRAMMING       │
-              │       Python • C         │
-              └────────────┬─────────────┘
-                           │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-          AI / RAG     CYBERSECURITY   AUTOMATION
-             │             │             │
-             └─────────────┼─────────────┘
-                           ▼
-                 ┌──────────────────┐
-                 │   REAL SYSTEMS   │
-                 └──────────────────┘
+My work combines mathematical thinking + programming + AI + cybersecurity + automation.
 
-🛠️ tech_stack
+I like taking a problem from:
 
-::: {align="center"}
+Idea → Research → Architecture → Code → Testing → Deployment
 
-💻 Languages
+and turning it into something useful.
 
-<img src="https://skillicons.dev/icons?i=python,c" alt="Python and C"/>{=html}
+</td>
 
-⚙️ Backend & Development
+<td width="45%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,nextjs,postgres,redis" alt="Development stack"/>{=html}
+┌──────────────────────────┐
+│       MUNEEB.AHMAD       │
+├──────────────────────────┤
+│ 🎓 BS Mathematics        │
+│ 💻 Python / C            │
+│ 🤖 AI / RAG              │
+│ 🔐 Cybersecurity         │
+│ ⚙️ Backend / APIs        │
+│ 🔌 Automation            │
+│ 📍 Lahore, Pakistan      │
+└──────────────────────────┘
 
-🤖 AI / RAG
+</td>
+</tr>
+</table>
 
-<br>{=html}
+🧠 my_core
 
-LangChain • Qdrant • OpenAI Embeddings • Groq • xAI •
-Whisper
-
-🔌 APIs & Automation
-
-REST APIs • Twilio • VAPI • Make.com • Cloudinary • Celery
-
-🗄️ Data & Infrastructure
-
-PostgreSQL • PostGIS • Qdrant • Redis • Git • GitHub
-:::
-
-🚀 things_i_build
+<div align="center">
 
 <table>
-
 <tr>
+<td align="center" width="25%">
 
-<td width="50%">
+🧮
 
-🧠 AI / RAG Systems
+MATHEMATICS
 
-Building intelligent applications using:
-
-Retrieval-Augmented Generation
-
-Vector databases
-
-Semantic search
-
-LLM integrations
-
-Speech-to-text
-
-Streaming responses
-
-AI-powered assistants
+Logic
+Problem Solving
+Analytical Thinking
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
-⚙️ Backend Systems
+💻
 
-Working with:
+ENGINEERING
 
-FastAPI
-
-Node.js
-
-PostgreSQL
-
-Redis
-
-REST APIs
-
-Background workers
-
-Authentication
-
-Production deployments
+Python
+C
+Backend
+APIs
 
 </td>
 
+<td align="center" width="25%">
+
+🤖
+
+INTELLIGENCE
+
+AI
+RAG
+LLMs
+Vector Search
+
+</td>
+
+<td align="center" width="25%">
+
+🔐
+
+SECURITY
+
+Networking
+Secure APIs
+Data Protection
+Security Research
+
+</td>
+</tr>
+</table>
+
+</div>
+
+⚙️ tech_stack
+
+<div align="center">
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=python,c" alt="Python C"/>
+
+Backend / Web
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,nextjs,postgres,redis,git,github" alt="Backend and development technologies"/>
+
+AI / Data / Infrastructure
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=postgres,redis" alt="Data technologies"/>
+
+<br><br>
+
+LangChain · Qdrant · OpenAI Embeddings · Groq · xAI · Whisper · PVLib · PostGIS
+
+APIs & Automation
+
+REST APIs · Twilio · VAPI · Make.com · Cloudinary · Celery
+
+</div>
+
+🚀 what_i_build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🤖 AI & RAG
+
+Documents
+    ↓
+Embeddings
+    ↓
+Vector Database
+    ↓
+Semantic Retrieval
+    ↓
+LLM
+    ↓
+Useful Response
+
+Building AI systems with RAG, vector search, LLMs, speech processing and streaming responses.
+
+</td>
+
+<td width="50%" valign="top">
+
+⚡ Backend & APIs
+
+Client
+   ↓
+API
+   ↓
+Business Logic
+   ↓
+Database
+   ↓
+External Services
+
+Building scalable backend services, integrations, authentication flows and production APIs.
+
+</td>
 </tr>
 
 <tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 🔐 Cybersecurity
 
@@ -169,181 +210,197 @@ Network security
 
 Secure application design
 
-APIs & authentication
+Authentication
+
+API security
 
 Data protection
-
-Security fundamentals
 
 Ethical security research
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-🤖 Automation
+🔌 Automation
 
-Building workflows around:
-
-API integrations
-
-Data extraction
+Building workflows that connect:
 
 AI services
 
-Communication platforms
+APIs
 
-Email automation
+Communication tools
 
-Business process automation
+Data extraction
+
+Email systems
+
+Business processes
 
 </td>
-
 </tr>
-
 </table>
 
-🔬 selected_work
+🔬 featured_work
 
 🧠 Alevo AI
 
-AI-powered coaching platform with a modern web-first architecture.
+AI coaching platform — web-first PWA architecture
 
-Frontend       → Next.js / PWA
-Backend        → Node.js
-AI Layer       → RAG + LLM
-Vector Search  → Qdrant
-Embeddings     → OpenAI
-Speech         → Whisper
-AI Models      → Groq / xAI
-Voice          → ElevenLabs
+Next.js / PWA
+      │
+      ▼
+  Node.js API
+      │
+      ├──────────────► RAG Service
+      │                    │
+      │                    ▼
+      │                 Qdrant
+      │
+      ├──────────────► LLM
+      │                Groq / xAI
+      │
+      ├──────────────► Whisper
+      │
+      └──────────────► ElevenLabs
+
+Focus: AI coaching · RAG · vector search · speech-to-text · streaming · voice AI
 
 ☀️ Smart Solar Design Engine
 
-Backend system focused on automated solar design and geospatial
-calculations.
+Automated solar design + geospatial backend
 
-Python
-   ↓
 FastAPI
-   ↓
+   │
+   ▼
 PostgreSQL + PostGIS
-   ↓
-PVLib
-   ↓
-Google Solar API
+   │
+   ├── PVLib
+   │
+   └── Google Solar API
 
-🤖 AI Automation & API Systems
+Focus: backend engineering · geospatial data · solar calculations · automation
 
-Experience with multi-service architectures involving:
+🤝 AI API & Automation Systems
 
-OpenAI
-Groq
-ElevenLabs
-xAI
-Twilio
-VAPI
-Make.com
-Cloudinary
-Redis
-Celery
+Working with multi-service architectures involving:
 
-Connect powerful tools → automate repetitive work → build useful
-systems.
+OpenAI · Groq · ElevenLabs · xAI · Twilio · VAPI · Make.com · Cloudinary · Redis · Celery
 
-📊 github.exe
+📈 github_activity
 
-::: {align="center"}
-<img src="https://github-readme-stats.vercel.app/api?username=Muneeb-889&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Muneeb's GitHub Stats"/>{=html}
+<div align="center">
 
-<br>{=html}<br>{=html}
+<img src="https://github-readme-stats.vercel.app/api?username=Muneeb-889&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-889&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>{=html}
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-889&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages"/>
 
-<br>{=html}<br>{=html}
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=Muneeb-889&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>{=html}
-:::
+<img src="https://streak-stats.demolab.com?user=Muneeb-889&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-🏆 achievements
-
-::: {align="center"}
-<img src="https://github-profile-trophy.vercel.app/?username=Muneeb-889&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>{=html}
-:::
+</div>
 
 🐍 contribution.exe
 
-::: {align="center"}
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>{=html}
-:::
+<div align="center">
 
-📡 current_signal
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Animated GitHub contribution snake"/>
 
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  [■■■■■■■■■■■■■■■■■■■■■■■■■■□□]  LEARNING        │
-│                                                     │
-│  → Advanced AI Systems                              │
-│  → RAG Architecture                                 │
-│  → Cybersecurity                                    │
-│  → Backend Engineering                              │
-│  → Cloud & Deployment                               │
-│  → Automation                                       │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+</div>
 
-🧩 development_philosophy
+🏆 achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muneeb-889&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="GitHub trophies"/>
+
+</div>
+
+📡 current_mission
+
+┌───────────────────────────────────────────────────────────────┐
+│                       CURRENT MISSION                         │
+├───────────────────────────────────────────────────────────────┤
+│                                                               │
+│  [██████████████████████████████░░░░]  AI SYSTEMS            │
+│  [██████████████████████████░░░░░░░]  RAG                   │
+│  [████████████████████████░░░░░░░░░]  CYBERSECURITY         │
+│  [██████████████████████░░░░░░░░░░░]  BACKEND               │
+│  [████████████████████░░░░░░░░░░░░░]  AUTOMATION            │
+│  [██████████████████░░░░░░░░░░░░░░░]  CLOUD / DEPLOYMENT    │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+
+🧩 how_i_think
+
+<div align="center">
+
+      ┌──────────────┐
+      │    PROBLEM   │
+      └──────┬───────┘
+             ↓
+      ┌──────────────┐
+      │   RESEARCH   │
+      └──────┬───────┘
+             ↓
+      ┌──────────────┐
+      │    DESIGN    │
+      └──────┬───────┘
+             ↓
+      ┌──────────────┐
+      │     BUILD    │
+      └──────┬───────┘
+             ↓
+      ┌──────────────┐
+      │     TEST     │
+      └──────┬───────┘
+             ↓
+      ┌──────────────┐
+      │  BREAK / FIX │
+      └──────┬───────┘
+             ↓
+      ┌──────────────┐
+      │    IMPROVE   │
+      └──────────────┘
+
+</div>
 
 Understand the problem before writing the solution.
 
-01  Understand
-        ↓
-02  Research
-        ↓
-03  Design
-        ↓
-04  Build
-        ↓
-05  Test
-        ↓
-06  Break
-        ↓
-07  Fix
-        ↓
-08  Improve
+Good software isn't only about making something work.
 
-I believe good software isn't just about making something work.
-
-It's about making it understandable, maintainable, efficient, secure,
-and useful.
+It's about making it clean, maintainable, efficient, secure and useful.
 
 🌐 connect.sh
 
-::: {align="center"}
-<a href="https://github.com/Muneeb-889">{=html}
-<img src="https://img.shields.io/badge/GitHub-Muneeb--889-181717?style=for-the-badge&logo=github"/>{=html}
-</a>{=html}
+<div align="center">
 
-<a href="mailto:muneebahmadnadeem.786@gmail.com">{=html}
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>{=html}
-</a>{=html}
+<a href="https://github.com/Muneeb-889">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 
-<!-- Replace YOUR_LINK with your actual LinkedIn username -->
+<a href="mailto:muneebahmadnadeem.786@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>{=html}
-</a>{=html}
-:::
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-::: {align="center"}
+<br><br>
 
-while(alive) { learn(); build(); repeat(); }
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1500&color=94A3B8&center=true&vCenter=true&width=650&height=35&lines=Learn.+Build.+Secure.+Automate.+Repeat." alt="Footer animation"/>
 
-<br>{=html}
+</div>
+
+<div align="center">
+
+while (alive) { learn(); build(); improve(); }
 
 Code with logic. Build with purpose. Secure with intent.
 
-<br>{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,50:0f172a,100:020617&height=120&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=120&section=footer" width="100%"/>{=html}
-:::
+</div>
