@@ -60,7 +60,7 @@ and turning it into something useful.
 │ 🔐 Cybersecurity         │
 │ ⚙️ Backend / APIs        │
 │ 🔌 Automation            │
-│ 📍 Lahore, Pakistan      │
+│ 📍 Lahore, Pakistan       │
 └──────────────────────────┘
 
 </td>
@@ -249,9 +249,11 @@ Business processes
 AI coaching platform — web-first PWA architecture
 
 Next.js / PWA
+
       │
       ▼
   Node.js API
+  
       │
       ├──────────────► RAG Service
       │                    │
@@ -271,13 +273,21 @@ Focus: AI coaching · RAG · vector search · speech-to-text · streaming · voi
 
 Automated solar design + geospatial backend
 
+
 FastAPI
+   
    │
+   
    ▼
+   
 PostgreSQL + PostGIS
+
    │
+   
    ├── PVLib
+   
    │
+   
    └── Google Solar API
 
 Focus: backend engineering · geospatial data · solar calculations · automation
